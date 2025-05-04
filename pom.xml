@@ -21,7 +21,10 @@
 
         <key.storage.path>/etc/</key.storage.path>
         <tsa/>
+        <sonar.organization>julen03</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
+    
 
     <modules>
         <!-- dbeaver-jdbc-libsql-->
